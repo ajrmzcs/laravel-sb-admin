@@ -37,4 +37,4 @@ Register a new user
 #### Next Steps
 * Separate admin panel sections in partials/components
 * Use html blade tables, instead of JQuery Datatable and retrieve data from a model
-* Implement an optional vue component for fetching table data vis AJAX
+* Implement an optional vue component for fetching table data via AJAX
